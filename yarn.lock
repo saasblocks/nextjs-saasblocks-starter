@@ -1952,10 +1952,10 @@ tailwind-children@^0.5.0:
     require-esm-in-cjs "^0.1.0"
     tailwindcss "^3.0.24"
 
-tailwind-saasblocks@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/tailwind-saasblocks/-/tailwind-saasblocks-0.1.2.tgz#0601582c7796dd35281d9f87f47a73939d32e917"
-  integrity sha512-2pdWLcuSPiu8mmxyfBJB27t/b2sfMQX8B9+ZcgRvUdMEZOttZARAcsASFbuxV0OYwyEsa38XAx4jacDbyl92aQ==
+tailwind-saasblocks@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/tailwind-saasblocks/-/tailwind-saasblocks-0.2.0.tgz#6ac43a79a0e475d9aba50c8f9ff64b07ff67bf95"
+  integrity sha512-woEM0QpXZtypiiV+JyHTH/GjxIMp7JefhoqbpNIbj7vMbf/oRaaITfpE8esuNuIq+HQWy78Y3gc0s9slp2Aqcg==
 
 tailwindcss@^3.0.24, tailwindcss@^3.1.5:
   version "3.1.5"
